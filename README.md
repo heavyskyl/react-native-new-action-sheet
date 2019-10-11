@@ -1,4 +1,4 @@
-# react-native-bottom-sheet-new
+# react-native-new-action-sheet
 
 React Native Action Sheet module for android and ios
 
