@@ -8,7 +8,7 @@ React Native Action Sheet module for android and ios
 yarn add react-native-new-action-sheet
 ```
 
-You need it to link it manually if you are using react-native < 60.
+You need to link it manually on android if you are using react-native < 60.
 
 
 ### How to use ?
