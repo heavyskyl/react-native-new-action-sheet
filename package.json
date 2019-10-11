@@ -1,6 +1,6 @@
 {
   "name": "react-native-new-action-sheet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Action Sheet for ios and android",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https@github.com:heavyskyl/react-native-new-bottom-sheet.git"
+    "url": "git+https@github.com:heavyskyl/react-native-new-action-sheet.git"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
